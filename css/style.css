@@ -56,12 +56,20 @@ body {
     margin: 0;
 }
 
-.hero-content {
+.hero-content { 
     width: 100%;
     max-width: 1000px;
     text-align: center;
     padding: 24px;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content, btn:hover  { 
+    background-color: #74b44a;
+    border: #74b44a;
 }
 
 .aboutme-container {
