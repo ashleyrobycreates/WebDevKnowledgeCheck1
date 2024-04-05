@@ -121,6 +121,8 @@ body {
     align-items: center;
     font-size: 13px;
     padding: 8px 0;
+    font-style: italic;
+    font-size: medium;
 }
 
 .footer-container {
